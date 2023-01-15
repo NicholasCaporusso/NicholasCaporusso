@@ -3,6 +3,7 @@
 - 👀 I’m interested in Human-Computer Interaction, software development, and research. 
 - 🌱 I’m currently learning how to combine Artificial Intelligence and art
 - 💞️ I’m looking to collaborate on research and development projects
+- Check my website at www.nicholascaporusso.com
 - 📫 How to reach me: ncaporusso@gmail.com
 
 <!---
