@@ -7,7 +7,8 @@
 - 📫 How to reach me: ncaporusso@gmail.com
 
 # Public repositories
-- [**Express Image Browser**](https://github.com/NicholasCaporusso/tools-nodejs-image-browser-cleaner) A lightweight Node.js + Express application that lets you browse, preview, and delete images inside any folder on your computer through a clean, Bootstrap‑powered web interface.
+- [**Express Image Browser**](https://github.com/NicholasCaporusso/tools-nodejs-image-browser-cleaner): A Node.js + Express application that lets you browse, preview, and delete images inside any folder on your computer through a clean, Bootstrap‑powered web interface.
+- [**Folder Sync Utility**](https://github.com/NicholasCaporusso/tools-nodejs-synchronize-folders): A Node.js script that mirrors a source directory to a destination directory—adding, updating, and deleting files so the destination is always an exact copy.
 
 # 📊 GitHub Stats:
 
