@@ -6,7 +6,9 @@
 - Check my website at www.nicholascaporusso.com
 - 📫 How to reach me: ncaporusso@gmail.com
 
-- 
+# Public repositories
+- [**Express Image Browser**](https://github.com/NicholasCaporusso/tools-nodejs-image-browser-cleaner) A lightweight Node.js + Express application that lets you browse, preview, and delete images inside any folder on your computer through a clean, Bootstrap‑powered web interface.
+
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicholasCaporusso&theme=github)
