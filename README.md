@@ -3,8 +3,11 @@
 - 👀 I’m interested in Human-Computer Interaction, software development, and research. 
 - 🌱 I’m currently learning how to combine Artificial Intelligence and art
 - 💞️ I’m looking to collaborate on research and development projects
-- Check my website at www.nicholascaporusso.com
-- 📫 How to reach me: ncaporusso@gmail.com
+
+# Where to find me
+- My website (https://www.nicholascaporusso.com)
+- My LinkedIn profile (https://www.linkedin.com/in/nicholascaporusso)
+- My e-mail: ncaporusso@gmail.com
 
 # Public repositories
 Most of my work is in private repositories.
