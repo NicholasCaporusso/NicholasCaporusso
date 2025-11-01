@@ -15,7 +15,8 @@ Most of my work is in private repositories.
 - [**Folder Sync Utility**](https://github.com/NicholasCaporusso/tools-nodejs-synchronize-folders): A Node.js script that mirrors a source directory to a destination directory—adding, updating, and deleting files so the destination is always an exact copy.
 - [**Image compression utility**](https://github.com/NicholasCaporusso/tools-nodejs-image-compress): A simple Node.js CLI tool to aggressively compress JPEG and PNG images with near-lossless quality.
 
-# 📊 GitHub Stats:
+---
+# 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicholasCaporusso&theme=github)
 
