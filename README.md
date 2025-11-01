@@ -3,11 +3,20 @@
 - 👀 I’m interested in Human-Computer Interaction, software development, and research. 
 - 🌱 I’m currently learning how to combine Artificial Intelligence and art
 - 💞️ I’m looking to collaborate on research and development projects
+- Send me an e-mail at: ncaporusso@gmail.com
 
-# Where to find me
-- My website (https://www.nicholascaporusso.com)
-- My LinkedIn profile (https://www.linkedin.com/in/nicholascaporusso)
-- My e-mail: ncaporusso@gmail.com
+# Useful links
+- Official website: https://www.nicholascaporusso.com
+- LinkedIn profile: https://www.linkedin.com/in/nicholascaporusso
+- My research lab's website: https://www.cprnhl.com/hcilab
+- Instagram: https://instagram.com/cprnhl
+- GitHub: https://github.com/NicholasCaporusso
+
+**Academic links**
+- Google Scholar: https://scholar.google.co.in/citations?user=4T9RQfcAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Nicholas_Caporusso3x
+- dblp computer science bibliography: https://dblp.uni-trier.de/pers/hd/c/Caporusso:Nicholas
+- ORCID: https://orcid.org/0000-0002-8661-4868
 
 # Public repositories
 Most of my work is in private repositories.
