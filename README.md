@@ -1,5 +1,6 @@
 # Hi there!
 - 👋 Hi, I’m @NicholasCaporusso
+- I am an Associate Professor of Computing and Analytics at [Northern Kentucky University](https://www.nku.edu)
 - 👀 I’m interested in Human-Computer Interaction, software development, and research. 
 - 🌱 I’m currently learning how to combine Artificial Intelligence and art
 - 💞️ I’m looking to collaborate on research and development projects
