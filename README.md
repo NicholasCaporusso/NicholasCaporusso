@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NicholasCaporusso
+# 👋 Hi, I’m [Nicholas](https://github.com/NicholasCaporusso)
 - I am an Associate Professor of Computing and Analytics at [Northern Kentucky University](https://www.nku.edu)
 - 👀 I’m interested in Human-Computer Interaction, software development, and research. 
 - 🌱 I’m currently learning how to combine Artificial Intelligence and art
@@ -27,10 +27,9 @@ However, I do have some public repos with interesting tools, which I mostly deve
 - [**Image compression utility**](https://github.com/NicholasCaporusso/tools-nodejs-image-compress): A simple Node.js CLI tool to aggressively compress JPEG and PNG images with near-lossless quality.
 
 ---
-# 📊 GitHub Stats
-
+# 📊 GitHub Activity and Stats
+![GitHub Contribution Graph](https://ghchart.rshah.org/NicholasCaporusso)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicholasCaporusso&theme=github)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicholasCaporusso&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicholasCaporusso&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=NicholasCaporusso&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
