@@ -20,7 +20,9 @@
 - ORCID: https://orcid.org/0000-0002-8661-4868
 
 # Public repositories
-Most of my work is in private repositories.
+Most of my work is in private repositories. 
+
+However, I do have some public repos with interesting tools, which I mostly developed for research purposes. Check them out:
 - [**Express Image Browser**](https://github.com/NicholasCaporusso/tools-nodejs-image-browser-cleaner): A Node.js + Express application that lets you browse, preview, and delete images inside any folder on your computer through a clean, Bootstrap‑powered web interface.
 - [**Folder Sync Utility**](https://github.com/NicholasCaporusso/tools-nodejs-synchronize-folders): A Node.js script that mirrors a source directory to a destination directory—adding, updating, and deleting files so the destination is always an exact copy.
 - [**Image compression utility**](https://github.com/NicholasCaporusso/tools-nodejs-image-compress): A simple Node.js CLI tool to aggressively compress JPEG and PNG images with near-lossless quality.
