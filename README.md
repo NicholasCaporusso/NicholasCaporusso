@@ -23,6 +23,7 @@ Most of my work is in private repositories.
 
 However, I do have some public repos with interesting tools, which I mostly developed for research purposes. Check them out:
 - [**HeyBro**](https://github.com/NicholasCaporusso/HeyBro): A browser automation engine that enables your computer to work on tasks while you work on other tasks.
+- [**SUNO workspaces and music downloader**](https://github.com/NicholasCaporusso/tools-nodejs-SUNO-workspace-songs-downloader): Download and manage your workspaces and music locally
 - [**Express Image Browser**](https://github.com/NicholasCaporusso/tools-nodejs-image-browser-cleaner): A Node.js + Express application that lets you browse, preview, and delete images inside any folder on your computer through a clean, Bootstrap‑powered web interface.
 - [**Folder Sync Utility**](https://github.com/NicholasCaporusso/tools-nodejs-synchronize-folders): A Node.js script that mirrors a source directory to a destination directory—adding, updating, and deleting files so the destination is always an exact copy.
 - [**Image compression utility**](https://github.com/NicholasCaporusso/tools-nodejs-image-compress): A simple Node.js CLI tool to aggressively compress JPEG and PNG images with near-lossless quality.
