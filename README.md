@@ -22,7 +22,7 @@
 Most of my work is in private repositories. 
 
 However, I do have some public repos with interesting tools, which I mostly developed for research purposes. Check them out:
-- [**HeyBro**](https://github.com/NicholasCaporusso/HeyBro): A browser automation engine that enables your computer to work on tasks while you work on other tasks.
+- [**IAGO (issues-a-gogo)**](https://github.com/NicholasCaporusso/iago-issues-a-gogo): Use with Claude, Codex, and any other agent running in a sandbox to direct and track development using GitHub issues.
 - [**Linksy**](https://github.com/NicholasCaporusso/Linksy): A Windows utility that enables converting file and folder paths into **Notion** links that open in Explorer
 - [**SUNO workspaces and music downloader**](https://github.com/NicholasCaporusso/tools-nodejs-SUNO-workspace-songs-downloader): Download and manage your workspaces and music locally
 - [**Express Image Browser**](https://github.com/NicholasCaporusso/tools-nodejs-image-browser-cleaner): A Node.js + Express application that lets you browse, preview, and delete images inside any folder on your computer through a clean, Bootstrap‑powered web interface.
